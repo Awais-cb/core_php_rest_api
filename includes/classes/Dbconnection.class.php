@@ -3,7 +3,7 @@ class Dbconnection
 {
 	private $host = 'localhost';
 	private $user = 'root';
-	private $password = '';
+	private $password = 'awais.dev';
 	private $dbname = 'core_php_restapi';
 	private $conn;
 
